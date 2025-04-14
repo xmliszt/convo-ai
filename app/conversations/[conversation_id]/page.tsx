@@ -18,6 +18,8 @@ import { TargetWordsPane } from './target-words-pane';
 import { TurnsLeftPane } from './turns-left-pane';
 import { getInitialLlmPrompt } from './utils/get-initial-llm-prompt';
 
+export const maxDuration = 60; // Max duration is 1 minute.
+
 export async function generateMetadata(props: {
   params: { conversation_id: string };
 }): Promise<Metadata> {
