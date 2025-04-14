@@ -12,11 +12,11 @@ import { openGraph } from '../shared-metadata';
 import { GoogleOAuthButton } from './google-oauth-button';
 
 export const metadata: Metadata = {
-  title: 'Convo | Sign in',
+  title: 'Convo AI | Sign in',
   openGraph: {
     ...openGraph,
     url: '/signin',
-    title: 'Convo | Sign in',
+    title: 'Convo AI | Sign in',
   },
   alternates: {
     canonical: '/signin',
@@ -29,9 +29,9 @@ export default function Page() {
       <div className='mx-auto flex h-full w-full max-w-lg flex-col justify-center px-4 py-20'>
         <Card>
           <CardHeader>
-            <CardTitle>Sign in to Convo</CardTitle>
+            <CardTitle>Sign in to Convo AI</CardTitle>
             <CardDescription>
-              Sign in start any conversation with Convo. You will also be able
+              Sign in start any conversation with Convo AI. You will also be able
               to revisit your saved conversations and evaluation results in your
               profile.
             </CardDescription>

@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/profile'],
     },
-    sitemap: 'https://convo.website/sitemap.xml',
+    sitemap: 'https://convo-ai.cc/sitemap.xml',
   };
 }

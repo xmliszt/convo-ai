@@ -3,11 +3,11 @@ import { Metadata } from 'next';
 import { openGraph } from '@/app/shared-metadata';
 
 export const metadata: Metadata = {
-  title: 'Convo | Auth Error',
+  title: 'Convo AI | Auth Error',
   openGraph: {
     ...openGraph,
     url: '/auth/auth-code-error',
-    title: 'Convo | Error',
+    title: 'Convo AI | Error',
   },
   alternates: {
     canonical: '/auth/auth-code-error',

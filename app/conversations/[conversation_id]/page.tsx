@@ -26,11 +26,11 @@ export async function generateMetadata(props: {
   });
 
   return {
-    title: `Convo | ${conversation.scenario.name}`,
+    title: `Convo AI | ${conversation.scenario.name}`,
     openGraph: {
       ...openGraph,
       url: `/conversations/${props.params.conversation_id}`,
-      title: `Convo | ${conversation.scenario.name}`,
+      title: `Convo AI | ${conversation.scenario.name}`,
     },
     alternates: {
       canonical: `/conversations/${props.params.conversation_id}`,

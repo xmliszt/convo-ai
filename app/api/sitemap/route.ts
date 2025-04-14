@@ -7,7 +7,7 @@ const generateTxtSitemap = async (): Promise<string> => {
 
   // Static routes
   ['', 'scenarios', 'profile', 'signin'].forEach((route) => {
-    sitemap += `https://convo.website/${route}\n`;
+    sitemap += `https://www.convo-ai.cc/${route}\n`;
   });
 
   // Dynamic routes
@@ -23,7 +23,7 @@ const generateTxtSitemap = async (): Promise<string> => {
   categories.forEach(
     (category) =>
       // URL encoded category
-      (sitemap += `https://convo.website/scenarios?category=${encodeURIComponent(category)}\n`)
+      (sitemap += `https://www.convo-ai.cc/scenarios?category=${encodeURIComponent(category)}\n`)
   );
   return sitemap;
 };

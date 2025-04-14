@@ -17,11 +17,11 @@ import { fetchUserConversations } from './services/fetch-user-conversations';
 import { Signout } from './signout';
 
 export const metadata: Metadata = {
-  title: 'Convo | Profile',
+  title: 'Convo AI | Profile',
   openGraph: {
     ...openGraph,
     url: '/profile',
-    title: 'Convo | Profile',
+    title: 'Convo AI | Profile',
   },
   alternates: {
     canonical: '/profile',

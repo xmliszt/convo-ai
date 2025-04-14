@@ -19,12 +19,12 @@ export async function generateMetadata(props: {
   const { evaluation } = await fetchEvaluation(props.params.evaluation_id);
 
   return {
-    title: 'Convo | Evaluation' + ` - ${evaluation.conversation.scenario.name}`,
+    title: 'Convo AI | Evaluation' + ` - ${evaluation.conversation.scenario.name}`,
     openGraph: {
       ...openGraph,
       url: `/evaluations/${evaluation.id}`,
       title:
-        'Convo | Evaluation' + ` - ${evaluation.conversation.scenario.name}`,
+        'Convo AI | Evaluation' + ` - ${evaluation.conversation.scenario.name}`,
     },
     alternates: {
       canonical: `/evaluations/${evaluation.id}`,

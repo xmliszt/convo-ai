@@ -13,23 +13,23 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     {
-      url: 'https://convo.website',
+      url: 'https://www.convo-ai.cc/',
       lastModified: new Date(),
     },
     {
-      url: 'https://convo.website/scenarios',
+      url: 'https://www.convo-ai.cc/scenarios',
       lastModified: new Date(),
     },
     {
-      url: 'https://convo.website/profile',
+      url: 'https://www.convo-ai.cc/profile',
       lastModified: new Date(),
     },
     {
-      url: 'https://convo.website/signin',
+      url: 'https://www.convo-ai.cc/signin',
       lastModified: new Date(),
     },
     ...categories.map((category) => ({
-      url: `https://convo.website/scenarios?category=${encodeURIComponent(category)}`,
+      url: `https://www.convo-ai.cc/scenarios?category=${encodeURIComponent(category)}`,
       lastModified: new Date(),
     })),
   ];

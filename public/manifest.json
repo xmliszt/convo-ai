@@ -4,10 +4,14 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Convo | Boundless Conversation Practice with AI",
-  "short_name": "Convo",
-  "description": "Convo is an innovative edtech web app designed to enhance language learning through immersive, situational conversations. Choose from a variety of scenarios covering diverse topics and interact with an AI role-playing partner. Practice speaking freely, set conversation goals, and target specific vocabulary, all while receiving personalized feedback on your linguistic performance. Start your journey to fluent communication today with Convo.",
-  "categories": ["Education", "AI", "Technology"],
+  "name": "Convo AI | Boundless Conversation Practice with AI",
+  "short_name": "Convo AI",
+  "description": "Convo AI is an innovative edtech web app designed to enhance language learning through immersive, situational conversations. Choose from a variety of scenarios covering diverse topics and interact with an AI role-playing partner. Practice speaking freely, set conversation goals, and target specific vocabulary, all while receiving personalized feedback on your linguistic performance. Start your journey to fluent communication today with Convo AI.",
+  "categories": [
+    "Education",
+    "AI",
+    "Technology"
+  ],
   "icons": [
     {
       "src": "/favicon-16x16.png",

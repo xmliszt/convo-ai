@@ -16,13 +16,13 @@ export async function generateMetadata(props: {
 }): Promise<Metadata> {
   const filterCategory = props.searchParams?.category;
   return {
-    title: `Convo | Scenarios ${filterCategory !== undefined ? `- ${filterCategory}` : ''}`,
+    title: `Convo AI | Scenarios ${filterCategory !== undefined ? `- ${filterCategory}` : ''}`,
     openGraph: {
       ...openGraph,
       url:
         '/scenarios' +
         (filterCategory !== undefined ? `?category=${filterCategory}` : ''),
-      title: `Convo | Scenarios ${filterCategory !== undefined ? `- ${filterCategory}` : ''}`,
+      title: `Convo AI | Scenarios ${filterCategory !== undefined ? `- ${filterCategory}` : ''}`,
     },
     alternates: {
       canonical:

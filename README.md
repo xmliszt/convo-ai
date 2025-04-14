@@ -1,12 +1,12 @@
-# Convo
+# Convo AI
 
-[Convo.website](https://convo.website) helps you practice English conversation with real-world scenarios. It is a gamified experience where you will role play with AI counter-part to steer the conversation towards a set of end goals.
+[Convo AI](https://convo-ai.cc) helps you practice English conversation with real-world scenarios. It is a gamified experience where you will role play with AI counter-part to steer the conversation towards a set of end goals.
 
 [![convo youtube cover](https://i.imgur.com/ASSQyPj.jpeg)](https://youtu.be/TqE_mjJPd08?si=Y0gVr7Caj7og_Ncp)
 
 # Introduction
 
-Welcome to **Convo**, where **language learning** becomes an immersive experience through **real-world conversations**. Chat with an **intelligent AI** to hit targets, score points and get constructive feedback. All in the name of having fun while learning! We offer a dynamic series of practical conversational scenarios that vary in settings, styles and purposes. Whether you are a student preparing for a presentation, a professional heading for an interview, or you simply want to go about the daily norms, there is something for you.
+Welcome to **Convo AI**, where **language learning** becomes an immersive experience through **real-world conversations**. Chat with an **intelligent AI** to hit targets, score points and get constructive feedback. All in the name of having fun while learning! We offer a dynamic series of practical conversational scenarios that vary in settings, styles and purposes. Whether you are a student preparing for a presentation, a professional heading for an interview, or you simply want to go about the daily norms, there is something for you.
 
 Our innovative platform uses state of the art technology to ensure the best of experiences. The user interface is versatile, optimised for both mobile and desktop viewing, and supports dark/light modes. Join us today and get chatting about anything, anywhere, anytime!
 
