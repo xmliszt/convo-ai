@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Convo AI | Error',
   },
   alternates: {
-    canonical: '/auth/auth-code-error',
+    canonical: 'https://www.convo-ai.cc/auth/auth-code-error',
   },
 };
 

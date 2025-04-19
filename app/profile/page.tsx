@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: 'Convo AI | Profile',
   },
   alternates: {
-    canonical: '/profile',
+    canonical: 'https://www.convo-ai.cc/profile',
   },
 };
 

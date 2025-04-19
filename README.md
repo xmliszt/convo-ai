@@ -1,6 +1,6 @@
 # Convo AI
 
-[Convo AI](https://convo-ai.cc) helps you practice English conversation with real-world scenarios. It is a gamified experience where you will role play with AI counter-part to steer the conversation towards a set of end goals.
+[Convo AI](https://www.convo-ai.cc) helps you practice English conversation with real-world scenarios. It is a gamified experience where you will role play with AI counter-part to steer the conversation towards a set of end goals.
 
 [![convo youtube cover](https://i.imgur.com/ASSQyPj.jpeg)](https://youtu.be/TqE_mjJPd08?si=Y0gVr7Caj7og_Ncp)
 

@@ -35,7 +35,7 @@ export async function generateMetadata(props: {
       title: `Convo AI | ${conversation.scenario.name}`,
     },
     alternates: {
-      canonical: `/conversations/${props.params.conversation_id}`,
+      canonical: `https://www.convo-ai.cc/conversations/${props.params.conversation_id}`,
     },
   };
 }

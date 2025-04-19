@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     title: 'Convo AI | Sign in',
   },
   alternates: {
-    canonical: '/signin',
+    canonical: 'https://www.convo-ai.cc/signin',
   },
 };
 

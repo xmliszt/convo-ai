@@ -19,7 +19,7 @@ import { UserSigninPortalHolder } from './user-signin-portal-holder';
 
 // Metadata for SEO
 export const metadata: Metadata = {
-  metadataBase: new URL('https://convo-ai.cc/'),
+  metadataBase: new URL('https://www.convo-ai.cc/'),
   title: 'Convo | Boundless Conversation Practice with AI',
   description:
     'Convo is an innovative edtech web app designed to enhance language learning through immersive, situational conversations. Choose from a variety of scenarios covering diverse topics and interact with an AI role-playing partner. Practice speaking freely, set conversation goals, and target specific vocabulary, all while receiving personalized feedback on your linguistic performance. Start your journey to fluent communication today with Convo.',
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'Li Yuxuan', url: 'https://liyuxuan.dev/' }],
   creator: 'Li Yuxuan',
-  alternates: { canonical: '/' },
+  alternates: { canonical: 'https://www.convo-ai.cc/' },
   category: 'education',
   openGraph,
   twitter: {

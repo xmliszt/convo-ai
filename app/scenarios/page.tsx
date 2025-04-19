@@ -26,7 +26,7 @@ export async function generateMetadata(props: {
     },
     alternates: {
       canonical:
-        '/scenarios' +
+        'https://www.convo-ai.cc/scenarios' +
         (filterCategory !== undefined ? `?category=${filterCategory}` : ''),
     },
   };
